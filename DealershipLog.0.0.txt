@@ -1,0 +1,22 @@
+Nov 15, 2014 4:54:46 PM assign4.GeneralView run
+FINE: GeneralView started.
+Nov 15, 2014 4:57:08 PM assign4.GeneralView run
+FINE: GeneralView started.
+Nov 17, 2014 1:02:39 PM assign4.GeneralView run
+FINE: GeneralView started.
+Nov 17, 2014 1:03:00 PM assign4.CustomerView run
+FINE: CustomerView started.
+Nov 20, 2014 4:36:50 PM assign4.GeneralView run
+FINE: GeneralView started.
+Nov 20, 2014 4:39:59 PM assign4.GeneralView run
+FINE: GeneralView started.
+Nov 20, 2014 5:40:50 PM assign4.GeneralView run
+FINE: GeneralView started.
+Feb 15, 2015 10:18:20 AM assign4.GeneralView run
+FINE: GeneralView started.
+Mar 21, 2015 9:08:21 PM assign4.GeneralView run
+FINE: GeneralView started.
+Nov 11, 2015 11:18:41 PM assign4.GeneralView run
+FINE: GeneralView started.
+Apr 11, 2016 9:38:36 PM assign4.GeneralView run
+FINE: GeneralView started.
